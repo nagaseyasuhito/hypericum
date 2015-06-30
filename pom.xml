@@ -17,7 +17,7 @@
 
 	<scm>
 		<url>https://github.com/nagaseyasuhito/hypericum</url>
-		<connection>scm:git:https://github.com/nagaseyasuhito/hypericum.git</connection>
+		<connection>scm:git:git@github.com:nagaseyasuhito/hypericum.git</connection>
 		<tag>HEAD</tag>
 	</scm>
 
