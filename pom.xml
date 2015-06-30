@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.nagaseyasuhito</groupId>
 	<artifactId>hypericum</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<issueManagement>
@@ -18,7 +18,7 @@
 	<scm>
 		<url>https://github.com/nagaseyasuhito/hypericum</url>
 		<connection>scm:git:https://github.com/nagaseyasuhito/hypericum.git</connection>
-		<tag>1.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<properties>
